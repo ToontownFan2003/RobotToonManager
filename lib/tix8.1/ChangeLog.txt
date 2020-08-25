@@ -1,0 +1,16 @@
+2002-01-23  Mike Clarkson  <mikeclarkson@users.sourceforge.net>
+
+	* TList.tcl: Added ExposePrivateCommand for tk8.4
+
+	* SGrid.tcl: Added ExposePrivateCommand for tk8.4
+
+	* ComboBox.tcl: Added ExposePrivateCommand for tk8.4	
+
+	* EFileDlg.tcl: Added ExposePrivateCommand for tk8.4
+
+	* Grid.tcl: Added ExposePrivateCommand for tk8.4
+
+	* HList.tcl: Added ExposePrivateCommand for tk8.4
+
+	* PopMenu.tcl: Added ExposePrivateCommand for tk8.4
+
